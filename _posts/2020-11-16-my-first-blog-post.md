@@ -1,5 +1,5 @@
 ---
-title: "Título super legal" 
+title: "Título-super-legal" 
 date: 2020-11-16
 ---
 
